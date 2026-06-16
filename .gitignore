@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- Виртуальные окружения ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Jupyter / Google Colab ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- IDE и редакторы ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Операционные системы ---
+.DS_Store
+Thumbs.db
+Desktop.ini
